@@ -4,13 +4,7 @@
 # KimMinjin's repository
 
 ## Who am I?
-사용자 입장에서 고민하는 개발자 김민진입니다.
-
-Android 앱 개발부터 Spring Boot 백엔드까지 폭넓게 경험하고 있으며,
-Gemini API 연동과 Spring WebFlux + LLM 스터디를 통해
-AI를 서비스에 접목하는 역량을 키우고 있습니다.
-
-다양한 프로젝트의 팀장으로서 기획부터 개발, 문서화, 버전 관리, 팀 조율까지 전반을 경험했습니다.
+"왜 만드는가"를 먼저 질문하며, 사용자의 맥락에서 출발해 문제를 해결하는 풀스택 개발자입니다.
 
 
 ## 📫 연락처
@@ -45,6 +39,13 @@ AI를 서비스에 접목하는 역량을 키우고 있습니다.
 - skills : ![Kotlin](https://img.shields.io/badge/Kotlin-purple?style=for-the-badge&logo=kotlin), ![Android Studio](https://img.shields.io/badge/AndroidStudio-green?style=for-the-badge&logo=androidstudio), ![git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)
 - Android 핵심 기술 : Gemini API, Overlay Service, Accessibility Service
 
+### #Safe:on 
+- 멀티모달 AI 기반 사고·위험 조기 감지 스마트 헬멧
+- 역할 : 프로젝트 팀장, 백엔드·하드웨어 개발
+- 성과 : 한국정보처리학회 ACK 2026 "신체 이상 및 외부 위험요소 통합 감지 기반 예방형 스마트 안전모 시스템" 논문 게재, 한이음 드림업 장려상 평가 공모전 참여
+- code : [Safe:on](https://github.com/moodeProject)
+- skills :  ![Arduino](https://img.shields.io/badge/arduino-skyblue?style=for-the-badge&logo=arduino), ![RaspberryPi](https://img.shields.io/badge/raspberrypi-red?style=for-the-badge&logo=raspberrypi), ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java), ![Python](https://img.shields.io/badge/python-yello?style=for-the-badge&logo=python), ![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c), ![Python](https://img.shields.io/badge/python-yello?style=for-the-badge&logo=python)
+
 ## 🌱 스터디 및 활동
 
 | 기간                  | 활동 유형            | 세부 사항 |
@@ -53,12 +54,15 @@ AI를 서비스에 접목하는 역량을 키우고 있습니다.
 | 2024.01 ~ 2024.02     | 자격증 취득    | **어학 자격증**<br>IELTS Academic 6.5<br>|
 | 2024.03 ~ 2024.06     | 교내 활동      | **교내 스터디**<br>덕성여자대학교 일어회화 동아리 タイワ<br>일어 기본회화 및 토론 활동 참여 |
 | 2024.01 ~ 2024.08     | 교외 활동      | **사이드 프로젝트**<br>소식(消息): Cover the Bitters 개발<br>비주얼 노벨 개발 및 프로젝트 팀장|
+| 2024.12               | 자격증 취득    | **IT 자격증**<br>SQLD 자격증 취득|
 | 2025.03 ~ 2025.06     | 교내 활동      | **교환학생**<br>교내 교환학생 프로그램 참여<br>Swinburne University of Technology|
 | 2025.05 ~ 2025.09     | 교외 활동      | **공모전 참가**<br>K-해커톤 13회 본선 진출<br>손 안의 선생님 개발 및 프로젝트 팀장 |
-| 2025.09 ~             | 개인 활동      | **개인 프로젝트**<br>손 안의 선생님 애플리케이션 해커톤 이후 추가 기능 개발 진행 중 |
-| 2025.12 ~             | 교외 활동      | **교외 스터디**<br>데이터 중심 애플리케이션 설계 스터디<br>외부 자율 스터디 참여|
-| 2026.01 ~             | 교내 활동      | **교내 스터디**<br>Spring WebFlux + LLM 실전 구현 스터디<br>교내 스터디 참여 및 스터디 장, 블로그 작성|
-| 2026.01 ~             | 교내 활동      | **교내 프로젝트**<br>날씨와 기분, 시간을 활용한 조명 애플리케이션<br>교내 프로젝트 백엔드 참여 및 프로젝트 팀장, 한이음 드림업 공모전 참여
+| 2025.12 ~ 2026.05     | 교외 활동      | **교외 스터디**<br>데이터 중심 애플리케이션 설계 스터디<br>외부 자율 스터디 참여|
+| 2026.01 ~ 2026.02     | 교내 활동      | **교내 스터디**<br>Spring WebFlux + LLM 실전 구현 스터디<br>교내 스터디 참여 및 스터디 장, 블로그 작성|
+| 2026.01 ~  2026.10    | 교내 활동      | **교내 프로젝트**<br>Safe:on; 멀티모달 AI 기반 사고·위험 조기 감지 스마트 헬멧<br>교내 프로젝트 백엔드 참여 및 프로젝트 팀장, 한이음 드림업 공모전 참여, ACK 2026 논문 게재|
+| 2026.09               | 자격증 취득    | **IT 자격증**<br>정보처리기사<br>정보처리기사 자격증 취득|
+| 2026.09               | 자격증 취득    | **어학 자격증**<br>OPIc AL 취득|
+| 2026.10 ~             | 교외 활동      | **부트캠프**<br>LG CNS AM Inspire Camp<br>풀스택 개발 지식 및 프로젝트 참여를 위한 부트캠프 참여|
 
 <br>
 
