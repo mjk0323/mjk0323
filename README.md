@@ -27,7 +27,7 @@
 ### #소식(消息): Cover the Bitters
 - Unity 기반 비주얼 노벨 게임, 플레이어의 선택에 따라 결말이 달라지는 분기형 스토리 구조
 - 역할 : 프로젝트 팀장, 기획 및 개발
-- code : [소식(消息): Cover the Bitters](https://github.com/mjk0323/ToyProject)
+- code : [소식(消息): Cover the Bitters](https://github.com/mjk0323/CoverTheBitters)
 - skills : ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
   
 ### #손 안의 선생님
@@ -42,9 +42,9 @@
 ### #Safe:on 
 - 멀티모달 AI 기반 사고·위험 조기 감지 스마트 헬멧
 - 역할 : 프로젝트 팀장, 백엔드·하드웨어 개발
-- 성과 : 한국정보처리학회 ACK 2026 "신체 이상 및 외부 위험요소 통합 감지 기반 예방형 스마트 안전모 시스템" 논문 게재, 한이음 드림업 장려상 평가 공모전 참여
+- 성과 : 한이음 드림업 2026 장려상 (한국IT여성기업인협회장상) 수상, 한국정보처리학회 ACK 2026 "신체 이상 및 외부 위험요소 통합 감지 기반 예방형 스마트 안전모 시스템" 논문 게재
 - code : [Safe:on](https://github.com/moodeProject)
-- skills :  ![Arduino](https://img.shields.io/badge/arduino-skyblue?style=for-the-badge&logo=arduino), ![RaspberryPi](https://img.shields.io/badge/raspberrypi-red?style=for-the-badge&logo=raspberrypi), ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java), ![Python](https://img.shields.io/badge/python-yello?style=for-the-badge&logo=python), ![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c), ![Python](https://img.shields.io/badge/python-yello?style=for-the-badge&logo=python)
+- skills :  ![Arduino](https://img.shields.io/badge/arduino-skyblue?style=for-the-badge&logo=arduino), ![RaspberryPi](https://img.shields.io/badge/raspberrypi-red?style=for-the-badge&logo=raspberrypi), ![Java](https://img.shields.io/badge/java-gray?style=for-the-badge&logo=java), ![Python](https://img.shields.io/badge/python-yello?style=for-the-badge&logo=python), ![C](https://img.shields.io/badge/c-blue?style=for-the-badge&logo=c)
 
 ## 🌱 스터디 및 활동
 
@@ -56,13 +56,13 @@
 | 2024.01 ~ 2024.08     | 교외 활동      | **사이드 프로젝트**<br>소식(消息): Cover the Bitters 개발<br>비주얼 노벨 개발 및 프로젝트 팀장|
 | 2024.12               | 자격증 취득    | **IT 자격증**<br>SQLD 자격증 취득|
 | 2025.03 ~ 2025.06     | 교내 활동      | **교환학생**<br>교내 교환학생 프로그램 참여<br>Swinburne University of Technology|
-| 2025.05 ~ 2025.09     | 교외 활동      | **공모전 참가**<br>K-해커톤 13회 본선 진출<br>손 안의 선생님 개발 및 프로젝트 팀장 |
+| 2025.06 ~ 2025.09     | 교외 활동      | **공모전 참가**<br>K-해커톤 13회 본선 진출<br>손 안의 선생님 개발 및 프로젝트 팀장 |
 | 2025.12 ~ 2026.05     | 교외 활동      | **교외 스터디**<br>데이터 중심 애플리케이션 설계 스터디<br>외부 자율 스터디 참여|
-| 2026.01 ~ 2026.02     | 교내 활동      | **교내 스터디**<br>Spring WebFlux + LLM 실전 구현 스터디<br>교내 스터디 참여 및 스터디 장, 블로그 작성|
-| 2026.01 ~  2026.10    | 교내 활동      | **교내 프로젝트**<br>Safe:on; 멀티모달 AI 기반 사고·위험 조기 감지 스마트 헬멧<br>교내 프로젝트 백엔드 참여 및 프로젝트 팀장, 한이음 드림업 공모전 참여, ACK 2026 논문 게재|
+| 2026.01 ~ 2026.03     | 교내 활동      | **교내 스터디**<br>Spring WebFlux + LLM 실전 구현 스터디<br>교내 스터디 참여 및 스터디 장, 블로그 작성|
+| 2026.01 ~  2026.10    | 교내 활동      | **교내 프로젝트**<br>Safe:on; 멀티모달 AI 기반 사고·위험 조기 감지 스마트 헬멧<br>프로젝트 팀장, 하드웨어·백엔드 개발, 한이음 드림업 2026 장려상 수상, ACK 2026 논문 게재|
 | 2026.09               | 자격증 취득    | **IT 자격증**<br>정보처리기사<br>정보처리기사 자격증 취득|
 | 2026.09               | 자격증 취득    | **어학 자격증**<br>OPIc AL 취득|
-| 2026.10 ~             | 교외 활동      | **부트캠프**<br>LG CNS AM Inspire Camp<br>풀스택 개발 지식 및 프로젝트 참여를 위한 부트캠프 참여|
+| 2026.10 ~             | 교외 활동      | **부트캠프**<br>LG CNS AM Inspire Camp 7기<br>IT 서비스 운영(AM) 직무 교육 과정 수강|
 
 <br>
 
